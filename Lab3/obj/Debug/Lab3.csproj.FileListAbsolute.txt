@@ -1,0 +1,7 @@
+c:\users\sasha\source\repos\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+c:\users\sasha\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+c:\users\sasha\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe.config
+c:\users\sasha\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe
+c:\users\sasha\source\repos\Lab3\Lab3\bin\Debug\Lab3.pdb
+c:\users\sasha\source\repos\Lab3\Lab3\obj\Debug\Lab3.exe
+c:\users\sasha\source\repos\Lab3\Lab3\obj\Debug\Lab3.pdb
